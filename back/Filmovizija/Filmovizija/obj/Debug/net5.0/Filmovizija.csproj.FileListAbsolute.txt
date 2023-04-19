@@ -1,0 +1,147 @@
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\appsettings.json
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.exe
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.deps.json
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.runtimeconfig.json
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.runtimeconfig.dev.json
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.dll
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\ref\Filmovizija.dll
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.pdb
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.Views.dll
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.Views.pdb
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.AssemblyInfoInputs.cache
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.AssemblyInfo.cs
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorAssemblyInfo.cache
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorAssemblyInfo.cs
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\staticwebassets\Filmovizija.StaticWebAssets.Manifest.cache
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\staticwebassets\Filmovizija.StaticWebAssets.xml
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\scopedcss\bundle\Filmovizija.styles.css
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.TagHelpers.input.cache
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.TagHelpers.output.cache
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorCoreGenerate.cache
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorTargetAssemblyInfo.cache
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorTargetAssemblyInfo.cs
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.Views.pdb
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.dll
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\ref\Filmovizija.dll
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.pdb
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.genruntimeconfig.cache
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.csproj.CopyComplete
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Neo4j.Driver.dll
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Neo4jClient.dll
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\katar\OneDrive\Desktop\Neo4j NAS PROJEKAT\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\appsettings.json
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.exe
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.deps.json
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.runtimeconfig.json
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.runtimeconfig.dev.json
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.dll
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\ref\Filmovizija.dll
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.pdb
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.Views.dll
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.Views.pdb
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Neo4j.Driver.dll
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Neo4jClient.dll
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.AssemblyInfo.cs
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorAssemblyInfo.cache
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorAssemblyInfo.cs
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\staticwebassets\Filmovizija.StaticWebAssets.Manifest.cache
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\staticwebassets\Filmovizija.StaticWebAssets.xml
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\scopedcss\bundle\Filmovizija.styles.css
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.TagHelpers.input.cache
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.TagHelpers.output.cache
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorCoreGenerate.cache
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorTargetAssemblyInfo.cache
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorTargetAssemblyInfo.cs
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.Views.pdb
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.csproj.CopyComplete
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.dll
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\ref\Filmovizija.dll
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.pdb
+C:\Users\acer\Desktop\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.genruntimeconfig.cache
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\appsettings.json
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.exe
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.deps.json
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.runtimeconfig.json
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.runtimeconfig.dev.json
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.dll
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\ref\Filmovizija.dll
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.pdb
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.Views.dll
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Filmovizija.Views.pdb
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Neo4j.Driver.dll
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Neo4jClient.dll
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.AssemblyInfo.cs
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorAssemblyInfo.cache
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorAssemblyInfo.cs
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\staticwebassets\Filmovizija.StaticWebAssets.Manifest.cache
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\staticwebassets\Filmovizija.StaticWebAssets.xml
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\scopedcss\bundle\Filmovizija.styles.css
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.TagHelpers.input.cache
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.TagHelpers.output.cache
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorCoreGenerate.cache
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorTargetAssemblyInfo.cache
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.RazorTargetAssemblyInfo.cs
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.Views.pdb
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.csproj.CopyComplete
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.dll
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\ref\Filmovizija.dll
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.pdb
+C:\Users\acer\Desktop\PROJEKAT_NEO4J\back\Filmovizija\Filmovizija\obj\Debug\net5.0\Filmovizija.genruntimeconfig.cache
